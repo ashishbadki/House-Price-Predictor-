@@ -1,0 +1,34 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---------- Virtual environments ----------
+venv/
+.venv/
+env/
+
+# ---------- Data ----------
+# Raw data is often large and may be licensed. Keep it off GitHub.
+# The folders themselves survive because of the .gitkeep files.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# ---------- Secrets ----------
+.env
+*.key
+secrets.*
+
+# ---------- OS / editor noise ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/settings.json
+
+# NOTE: models/ is deliberately NOT ignored.
+# The deployed Streamlit app needs the saved .joblib pipeline in the repo.
+# We revisit this in Phase 24 if the file turns out to be too large for Git.
