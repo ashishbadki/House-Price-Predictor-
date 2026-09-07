@@ -37,8 +37,8 @@ INT32_MAX = 2_147_483_647
 # Deliberately WIDE. The aim is to remove impossible rows (Rs 25/sqft), not to
 # remove genuinely expensive property. Narrowing these would delete real
 # luxury listings, which the model needs to see.
-MIN_PRICE_PER_SQFT = 5_000
-MAX_PRICE_PER_SQFT = 300_000
+MIN_PRICE_PER_SQFT = 2_000
+MAX_PRICE_PER_SQFT = 150_000
 
 # Plausible floor-area band in sqft. Below 150 is smaller than a legal
 # habitable room; above 15,000 is not a flat.
