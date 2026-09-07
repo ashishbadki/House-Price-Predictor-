@@ -216,6 +216,13 @@ def clean_dataset(df: pd.DataFrame, verbose: bool = True) -> pd.DataFrame:
         ("remove impossible rows", remove_impossible_rows),
         ("add missing indicators", add_missing_indicators),
         ("drop unusable columns", drop_unusable_columns),
+        # A SECOND dedup, on purpose, and it must come last.
+        # Dropping price_per_sqft / total_floors / city can make two rows
+        # that previously differed become identical. Found by an assert while
+        # writing the script template in Phase 7: 9 such rows exist.
+        # Small, but the rule is that a cleaning step which can create
+        # duplicates must be followed by a step that removes them.
+        ("dedup again after drops", drop_exact_duplicates),
     ]
 
     out = df
