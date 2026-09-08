@@ -1,0 +1,4 @@
+model,MAE_lakh,RMSE_lakh,R2,MAPE_pct,MedAPE_pct,bias_lakh,within_10pct,within_20pct,fold_sd
+RandomForest,41.78,135.47,0.85,19.15,13.06,-3.7,40.16,67.26,5.34
+HistGB,42.34,137.53,0.84,19.87,13.97,-5.15,37.44,65.54,5.69
+XGBoost,41.48,140.52,0.83,19.25,13.52,-5.32,38.67,66.63,5.24
