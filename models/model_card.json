@@ -1,0 +1,96 @@
+{
+  "model": "HistGradientBoostingRegressor",
+  "params": {
+    "max_iter": 443,
+    "learning_rate": 0.0482,
+    "max_leaf_nodes": 78,
+    "min_samples_leaf": 12,
+    "l2_regularization": 0.2975,
+    "random_state": 42
+  },
+  "target": "price per sqft; multiply by area for rupees",
+  "features": [
+    "area",
+    "bedroom_num",
+    "bathroom_num",
+    "balcony_num",
+    "age",
+    "age_is_zero",
+    "has_balcony",
+    "latitude",
+    "longitude",
+    "dist_nariman_km",
+    "dist_bkc_km",
+    "dist_cbd_km",
+    "rooms_total",
+    "bath_per_bed",
+    "locality_grouped",
+    "property_type",
+    "furnished"
+  ],
+  "trained_on": {
+    "rows": 40826,
+    "buildings": 15052
+  },
+  "test_metrics": {
+    "MAE_lakh": 35.79,
+    "RMSE_lakh": 89.2,
+    "R2": 0.8628,
+    "MedAPE_pct": 13.24,
+    "bias_lakh": -0.74,
+    "within_10pct": 39.1,
+    "within_20pct": 67.5
+  },
+  "test_by_segment": {
+    "all": {
+      "n": 10880,
+      "MedAPE_pct": 13.24,
+      "bias_lakh": -0.7
+    },
+    "under_2cr": {
+      "n": 7713,
+      "MedAPE_pct": 12.74,
+      "bias_lakh": 4.3
+    },
+    "2cr_to_10cr": {
+      "n": 2992,
+      "MedAPE_pct": 14.44,
+      "bias_lakh": -11.3
+    },
+    "over_10cr": {
+      "n": 175,
+      "MedAPE_pct": 19.73,
+      "bias_lakh": -42.1
+    },
+    "area_over_2500": {
+      "n": 249,
+      "MedAPE_pct": 21.74,
+      "bias_lakh": 79.4
+    },
+    "bhk_4_plus": {
+      "n": 566,
+      "MedAPE_pct": 18.74,
+      "bias_lakh": 28.8
+    }
+  },
+  "cv_metrics_reference": {
+    "MedAPE_pct": 13.48,
+    "MAE_lakh": 42.23,
+    "bias_lakh": -5.34
+  },
+  "versions": {
+    "python": "3.11.16",
+    "sklearn": "1.9.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5"
+  },
+  "saved_at_utc": "2026-09-12T08:06:53+00:00",
+  "file_mb": 1.65,
+  "limitations": [
+    "Trained on asking prices, not confirmed transaction prices.",
+    "The dataset does not say whether area is carpet, built-up or super built-up.",
+    "No listing dates, so the model cannot account for time.",
+    "Only 26 training examples above Rs 50 crore; luxury estimates are unreliable and biased low.",
+    "Independent Floor and Villa have under 300 examples each."
+  ]
+}
