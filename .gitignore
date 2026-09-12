@@ -11,8 +11,9 @@ venv/
 env/
 
 # ---------- Data ----------
-# Raw data is often large and may be licensed. Keep it off GitHub.
-# The folders themselves survive because of the .gitkeep files.
+# Raw data is large and licensed by its Kaggle publisher.
+# Processed data is fully regenerable: `python run_pipeline.py`.
+# The folders survive because of the .gitkeep files.
 data/raw/*
 data/processed/*
 !data/raw/.gitkeep
@@ -22,6 +23,7 @@ data/processed/*
 .env
 *.key
 secrets.*
+.streamlit/secrets.toml
 
 # ---------- OS / editor noise ----------
 Thumbs.db
@@ -29,6 +31,7 @@ desktop.ini
 .DS_Store
 .vscode/settings.json
 
-# NOTE: models/ is deliberately NOT ignored.
-# The deployed Streamlit app needs the saved .joblib pipeline in the repo.
-# We revisit this in Phase 24 if the file turns out to be too large for Git.
+# ---------- NOT ignored, on purpose ----------
+# models/       the deployed app needs the .joblib at runtime (1.6 MB)
+# reports/      the findings documents are the readable part of this project
+# reports/figures/  embedded in the README

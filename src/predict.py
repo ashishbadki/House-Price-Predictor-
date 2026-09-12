@@ -46,6 +46,16 @@ import joblib
 import numpy as np
 import pandas as pd
 
+import sys
+# Put src/ on the import path before importing its siblings.
+#
+# Without this, `python src/predict.py` works (Python adds a script's own
+# folder automatically) but `from src.predict import predict_price` fails --
+# because then Python treats src as a package and `feature_engineering` is no
+# longer a top-level module. The README shows the second form, so both have
+# to work. Same bootstrap as tune.py and train_final.py.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 from feature_engineering import BKC, NARIMAN_POINT, haversine_km
 from preprocessing import FEATURES
 
