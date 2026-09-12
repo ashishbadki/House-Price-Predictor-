@@ -1,0 +1,27 @@
+# Streamlit configuration. Committed, so the deployed app looks and behaves
+# the same as it does locally.
+#
+# NOTE: never put credentials here. Secrets belong in
+# .streamlit/secrets.toml, which is gitignored, and on Community Cloud they
+# are typed into the app's Settings -> Secrets panel instead.
+
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#fcfcfb"
+secondaryBackgroundColor = "#f0efec"
+textColor = "#0b0b0b"
+
+[server]
+# The app reads one small CSV-free model file and never accepts uploads,
+# so a small cap is correct. It also stops a stray large POST from using
+# the free tier's memory.
+maxUploadSize = 5
+# Community Cloud terminates the app if it crashes; do not auto-rerun on
+# file change in production.
+runOnSave = false
+
+[browser]
+# Off by default here. Community Cloud collects its own analytics; this
+# setting only affects local runs.
+gatherUsageStats = false
