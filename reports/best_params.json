@@ -1,0 +1,45 @@
+[
+  {
+    "model": "RandomForest",
+    "MAE_lakh": 41.41429462664149,
+    "MedAPE_pct": 13.130752398801878,
+    "bias_lakh": -4.040958099626623,
+    "search_seconds": 194.48688554763794,
+    "best_params": {
+      "max_depth": 25,
+      "max_features": 0.4,
+      "min_samples_leaf": 3,
+      "n_estimators": 187
+    }
+  },
+  {
+    "model": "HistGB",
+    "MAE_lakh": 41.68233766317828,
+    "MedAPE_pct": 13.525197555794682,
+    "bias_lakh": -5.66346542749292,
+    "search_seconds": 306.8525040149689,
+    "best_params": {
+      "l2_regularization": 0.2975390947349387,
+      "learning_rate": 0.04824940775889316,
+      "max_iter": 443,
+      "max_leaf_nodes": 78,
+      "min_samples_leaf": 12
+    }
+  },
+  {
+    "model": "XGBoost",
+    "MAE_lakh": 41.756080940723756,
+    "MedAPE_pct": 13.75217614063125,
+    "bias_lakh": -5.6098374866653,
+    "search_seconds": 135.89051580429077,
+    "best_params": {
+      "colsample_bytree": 0.6125253169822235,
+      "learning_rate": 0.13909604136253803,
+      "max_depth": 7,
+      "min_child_weight": 2,
+      "n_estimators": 401,
+      "reg_lambda": 11.455777613940603,
+      "subsample": 0.8391599915244341
+    }
+  }
+]
