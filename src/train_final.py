@@ -73,6 +73,7 @@ CRORE = 10_000_000
 RANDOM_STATE = 42
 MODEL_PATH = Path("models/house_price_model.joblib")
 META_PATH = Path("models/model_card.json")
+LOCALITY_PATH = Path("models/locality_reference.json")
 
 # The Phase 15 tuned settings for the chosen model.
 FINAL_MODEL_PARAMS = dict(
@@ -124,6 +125,38 @@ def segment_report(df, pred) -> dict:
             "bias_lakh": round(float(g.err.mean()) / LAKH, 1),
         }
     return out
+
+
+def save_locality_reference(train: pd.DataFrame) -> None:
+    """Write the lookup table the Streamlit app needs.
+
+    The app asks the user for a locality NAME. The model needs latitude,
+    longitude and the three distance features. Something has to bridge that
+    gap, and it must use the same numbers the model trained on -- so we build
+    it here, at the same moment we save the model, from the same data.
+
+    Building it anywhere else risks the app and the model quietly disagreeing
+    about where Andheri is.
+    """
+    ref = {}
+    for name, g in train.groupby("locality_grouped"):
+        ref[name] = {
+            "n": int(len(g)),
+            # Median, not mean: one row with a bad coordinate should not be
+            # able to move a whole locality's position.
+            "lat": None if g.latitude.isna().all()
+                   else round(float(g.latitude.median()), 6),
+            "lon": None if g.longitude.isna().all()
+                   else round(float(g.longitude.median()), 6),
+            # Shown in the app next to the estimate, so the user has
+            # something to judge the number against.
+            "median_rate": int(round(float((g.price / g.area).median()))),
+            "median_price_lakh": round(float(g.price.median()) / LAKH, 1),
+        }
+    LOCALITY_PATH.write_text(json.dumps(ref, indent=1, sort_keys=True))
+    no_coords = [k for k, v in ref.items() if v["lat"] is None]
+    print(f"Saved: {LOCALITY_PATH}  ({len(ref)} localities"
+          + (f", {len(no_coords)} with no coordinates)" if no_coords else ")"))
 
 
 def main(train_path: str, test_path: str) -> int:
@@ -235,6 +268,8 @@ def main(train_path: str, test_path: str) -> int:
     }
     META_PATH.write_text(json.dumps(card, indent=2))
     print(f"Saved: {META_PATH}")
+
+    save_locality_reference(train)
 
     # ---------------------------------------------------------------
     print("\nVerifying the saved file actually works")

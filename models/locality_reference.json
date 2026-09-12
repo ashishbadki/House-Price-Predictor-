@@ -1,0 +1,1395 @@
+{
+ "Agripada": {
+  "lat": 18.976621,
+  "lon": 72.826519,
+  "median_price_lakh": 292.5,
+  "median_rate": 28854,
+  "n": 34
+ },
+ "Airoli": {
+  "lat": 19.148342,
+  "lon": 72.997421,
+  "median_price_lakh": 130.0,
+  "median_rate": 13077,
+  "n": 183
+ },
+ "Ambarnath": {
+  "lat": 19.205961,
+  "lon": 73.197464,
+  "median_price_lakh": 28.0,
+  "median_rate": 4145,
+  "n": 21
+ },
+ "Ambernath": {
+  "lat": 19.191652,
+  "lon": 73.189667,
+  "median_price_lakh": 30.2,
+  "median_rate": 4245,
+  "n": 774
+ },
+ "Ambivali": {
+  "lat": 19.055877,
+  "lon": 73.208913,
+  "median_price_lakh": 142.5,
+  "median_rate": 18760,
+  "n": 4
+ },
+ "Ambivli": {
+  "lat": 19.26741,
+  "lon": 73.173386,
+  "median_price_lakh": 29.0,
+  "median_rate": 4836,
+  "n": 3
+ },
+ "Andheri": {
+  "lat": 19.126284,
+  "lon": 72.83728,
+  "median_price_lakh": 235.0,
+  "median_rate": 26825,
+  "n": 1600
+ },
+ "Anjurdive": {
+  "lat": 19.234163,
+  "lon": 73.052101,
+  "median_price_lakh": 81.4,
+  "median_rate": 8702,
+  "n": 28
+ },
+ "Antarli": {
+  "lat": 19.165083,
+  "lon": 73.114906,
+  "median_price_lakh": 110.0,
+  "median_rate": 7097,
+  "n": 3
+ },
+ "Antop Hill": {
+  "lat": 19.030859,
+  "lon": 72.867218,
+  "median_price_lakh": 101.0,
+  "median_rate": 19169,
+  "n": 2
+ },
+ "Anushakti Nagar": {
+  "lat": 19.038107,
+  "lon": 72.923248,
+  "median_price_lakh": 109.0,
+  "median_rate": 12455,
+  "n": 3
+ },
+ "Asangaon": {
+  "lat": 19.439104,
+  "lon": 73.301331,
+  "median_price_lakh": 21.6,
+  "median_rate": 4033,
+  "n": 6
+ },
+ "Badlapur": {
+  "lat": 19.159334,
+  "lon": 73.239006,
+  "median_price_lakh": 26.0,
+  "median_rate": 3939,
+  "n": 357
+ },
+ "Balkum": {
+  "lat": 19.21785,
+  "lon": 72.988869,
+  "median_price_lakh": 118.0,
+  "median_rate": 12989,
+  "n": 4
+ },
+ "Bandra": {
+  "lat": 19.058067,
+  "lon": 72.847572,
+  "median_price_lakh": 543.6,
+  "median_rate": 42222,
+  "n": 641
+ },
+ "Bandra Kurla Complex": {
+  "lat": 19.06616,
+  "lon": 72.869102,
+  "median_price_lakh": 2200.0,
+  "median_rate": 52063,
+  "n": 13
+ },
+ "Belapur": {
+  "lat": 19.014186,
+  "lon": 73.034428,
+  "median_price_lakh": 185.0,
+  "median_rate": 15555,
+  "n": 66
+ },
+ "Bhandup": {
+  "lat": 19.152958,
+  "lon": 72.934189,
+  "median_price_lakh": 112.0,
+  "median_rate": 16842,
+  "n": 551
+ },
+ "Bhayandar": {
+  "lat": 19.301872,
+  "lon": 72.864449,
+  "median_price_lakh": 72.5,
+  "median_rate": 9434,
+  "n": 339
+ },
+ "Bhiwandi": {
+  "lat": 19.267012,
+  "lon": 73.079895,
+  "median_price_lakh": 48.8,
+  "median_rate": 7138,
+  "n": 328
+ },
+ "Boisar": {
+  "lat": 19.791297,
+  "lon": 72.759239,
+  "median_price_lakh": 24.2,
+  "median_rate": 3867,
+  "n": 92
+ },
+ "Bolinj Naka": {
+  "lat": 19.444542,
+  "lon": 72.794167,
+  "median_price_lakh": 25.0,
+  "median_rate": 5100,
+  "n": 3
+ },
+ "Borivali": {
+  "lat": 19.226249,
+  "lon": 72.857399,
+  "median_price_lakh": 170.0,
+  "median_rate": 22663,
+  "n": 1337
+ },
+ "Byculla": {
+  "lat": 18.976828,
+  "lon": 72.839127,
+  "median_price_lakh": 489.0,
+  "median_rate": 45000,
+  "n": 285
+ },
+ "Chandivali": {
+  "lat": 19.10775,
+  "lon": 72.89747,
+  "median_price_lakh": 204.8,
+  "median_rate": 31060,
+  "n": 11
+ },
+ "Charkop": {
+  "lat": 19.209364,
+  "lon": 72.814338,
+  "median_price_lakh": 135.7,
+  "median_rate": 21500,
+  "n": 13
+ },
+ "Charni Road": {
+  "lat": 18.955841,
+  "lon": 72.820817,
+  "median_price_lakh": 1897.2,
+  "median_rate": 70800,
+  "n": 3
+ },
+ "Chedda Nagar": {
+  "lat": 19.065594,
+  "lon": 72.903271,
+  "median_price_lakh": 93.0,
+  "median_rate": 16955,
+  "n": 2
+ },
+ "Chembur": {
+  "lat": 19.054268,
+  "lon": 72.895874,
+  "median_price_lakh": 185.0,
+  "median_rate": 23185,
+  "n": 1272
+ },
+ "Chinchodyacha Pada": {
+  "lat": 19.227531,
+  "lon": 73.089508,
+  "median_price_lakh": 55.0,
+  "median_rate": 8333,
+  "n": 3
+ },
+ "Chinchpokli": {
+  "lat": 18.983528,
+  "lon": 72.834152,
+  "median_price_lakh": 306.0,
+  "median_rate": 33550,
+  "n": 24
+ },
+ "Churchgate": {
+  "lat": 18.93289,
+  "lon": 72.825699,
+  "median_price_lakh": 4911.9,
+  "median_rate": 101840,
+  "n": 5
+ },
+ "Colaba": {
+  "lat": 18.913029,
+  "lon": 72.821312,
+  "median_price_lakh": 417.5,
+  "median_rate": 42265,
+  "n": 42
+ },
+ "Cuffe Parade": {
+  "lat": 18.91445,
+  "lon": 72.820534,
+  "median_price_lakh": 750.0,
+  "median_rate": 53747,
+  "n": 12
+ },
+ "Cumballa Hill": {
+  "lat": 18.970568,
+  "lon": 72.806076,
+  "median_price_lakh": 850.0,
+  "median_rate": 60870,
+  "n": 19
+ },
+ "Dadar": {
+  "lat": 19.0196,
+  "lon": 72.838203,
+  "median_price_lakh": 355.0,
+  "median_rate": 40000,
+  "n": 275
+ },
+ "Dahisar": {
+  "lat": 19.251426,
+  "lon": 72.863823,
+  "median_price_lakh": 125.0,
+  "median_rate": 18848,
+  "n": 347
+ },
+ "Deonar": {
+  "lat": 19.047943,
+  "lon": 72.916134,
+  "median_price_lakh": 289.5,
+  "median_rate": 27683,
+  "n": 102
+ },
+ "Desale Pada": {
+  "lat": 19.188608,
+  "lon": 73.08371,
+  "median_price_lakh": 15.0,
+  "median_rate": 4000,
+  "n": 7
+ },
+ "Diva": {
+  "lat": 19.187243,
+  "lon": 73.042748,
+  "median_price_lakh": 32.5,
+  "median_rate": 6459,
+  "n": 15
+ },
+ "Diva Gaon": {
+  "lat": 19.16736,
+  "lon": 73.045609,
+  "median_price_lakh": 32.9,
+  "median_rate": 5085,
+  "n": 7
+ },
+ "Dombivali": {
+  "lat": 19.201017,
+  "lon": 73.093613,
+  "median_price_lakh": 53.0,
+  "median_rate": 7718,
+  "n": 1436
+ },
+ "Dombivli": {
+  "lat": 19.225164,
+  "lon": 73.079681,
+  "median_price_lakh": 45.0,
+  "median_rate": 7297,
+  "n": 185
+ },
+ "Dronagiri": {
+  "lat": 18.878042,
+  "lon": 72.962643,
+  "median_price_lakh": 60.0,
+  "median_rate": 6261,
+  "n": 53
+ },
+ "Ern Express Highway Vikhroli": {
+  "lat": 19.105957,
+  "lon": 72.931252,
+  "median_price_lakh": 116.0,
+  "median_rate": 13647,
+  "n": 3
+ },
+ "Evershine Nagar": {
+  "lat": 19.193979,
+  "lon": 72.832369,
+  "median_price_lakh": 365.0,
+  "median_rate": 31900,
+  "n": 5
+ },
+ "Fort": {
+  "lat": 18.9363,
+  "lon": 72.838203,
+  "median_price_lakh": 273.2,
+  "median_rate": 40536,
+  "n": 24
+ },
+ "Gamdevi": {
+  "lat": 18.95853,
+  "lon": 72.812164,
+  "median_price_lakh": 1400.0,
+  "median_rate": 82353,
+  "n": 1
+ },
+ "Ghansoli": {
+  "lat": 19.120739,
+  "lon": 72.998558,
+  "median_price_lakh": 150.0,
+  "median_rate": 14589,
+  "n": 380
+ },
+ "Ghatkopar": {
+  "lat": 19.081751,
+  "lon": 72.910385,
+  "median_price_lakh": 165.0,
+  "median_rate": 23147,
+  "n": 768
+ },
+ "Girgaon": {
+  "lat": 18.956381,
+  "lon": 72.823318,
+  "median_price_lakh": 249.0,
+  "median_rate": 27778,
+  "n": 67
+ },
+ "Goregaon": {
+  "lat": 19.16025,
+  "lon": 72.846199,
+  "median_price_lakh": 180.0,
+  "median_rate": 21429,
+  "n": 1060
+ },
+ "Govandi": {
+  "lat": 19.051674,
+  "lon": 72.919258,
+  "median_price_lakh": 111.5,
+  "median_rate": 20729,
+  "n": 10
+ },
+ "Grant Road": {
+  "lat": 18.959776,
+  "lon": 72.82225,
+  "median_price_lakh": 430.0,
+  "median_rate": 35869,
+  "n": 4
+ },
+ "Greater Khanda": {
+  "lat": 19.009785,
+  "lon": 73.102291,
+  "median_price_lakh": 70.5,
+  "median_rate": 9056,
+  "n": 10
+ },
+ "Hariyali": {
+  "lat": 19.10822,
+  "lon": 72.935695,
+  "median_price_lakh": 104.7,
+  "median_rate": 21586,
+  "n": 4
+ },
+ "Hendre Pada": {
+  "lat": 19.170204,
+  "lon": 73.251389,
+  "median_price_lakh": 25.0,
+  "median_rate": 4078,
+  "n": 6
+ },
+ "Hiranandani Estates": {
+  "lat": 19.260273,
+  "lon": 72.982407,
+  "median_price_lakh": 150.0,
+  "median_rate": 18331,
+  "n": 40
+ },
+ "Hiranandani Gardens Powai": {
+  "lat": 19.116639,
+  "lon": 72.911672,
+  "median_price_lakh": 576.3,
+  "median_rate": 52849,
+  "n": 4
+ },
+ "Jacob Circle": {
+  "lat": 18.981745,
+  "lon": 72.829819,
+  "median_price_lakh": 511.0,
+  "median_rate": 50000,
+  "n": 9
+ },
+ "Jambrung": {
+  "lat": null,
+  "lon": null,
+  "median_price_lakh": 104.0,
+  "median_rate": 5778,
+  "n": 3
+ },
+ "Jogeshwari": {
+  "lat": 19.139675,
+  "lon": 72.842934,
+  "median_price_lakh": 140.0,
+  "median_rate": 21109,
+  "n": 374
+ },
+ "Juhu": {
+  "lat": 19.108686,
+  "lon": 72.831726,
+  "median_price_lakh": 1000.0,
+  "median_rate": 48450,
+  "n": 154
+ },
+ "Juhu Scheme": {
+  "lat": 19.107803,
+  "lon": 72.828217,
+  "median_price_lakh": 1250.0,
+  "median_rate": 50000,
+  "n": 7
+ },
+ "Juinagar": {
+  "lat": 19.049932,
+  "lon": 73.016167,
+  "median_price_lakh": 110.0,
+  "median_rate": 13542,
+  "n": 16
+ },
+ "Jvlr": {
+  "lat": 19.138835,
+  "lon": 72.858406,
+  "median_price_lakh": 164.4,
+  "median_rate": 27934,
+  "n": 4
+ },
+ "Jvpd Scheme": {
+  "lat": 19.111545,
+  "lon": 72.830916,
+  "median_price_lakh": 1129.0,
+  "median_rate": 67000,
+  "n": 10
+ },
+ "Kalamboli": {
+  "lat": 19.038452,
+  "lon": 73.096161,
+  "median_price_lakh": 75.0,
+  "median_rate": 7744,
+  "n": 128
+ },
+ "Kalbadevi": {
+  "lat": 18.949778,
+  "lon": 72.827691,
+  "median_price_lakh": 272.5,
+  "median_rate": 38695,
+  "n": 6
+ },
+ "Kalina": {
+  "lat": 19.07336,
+  "lon": 72.86115,
+  "median_price_lakh": 280.1,
+  "median_rate": 36000,
+  "n": 3
+ },
+ "Kalwa": {
+  "lat": 19.209337,
+  "lon": 73.010933,
+  "median_price_lakh": 85.0,
+  "median_rate": 11053,
+  "n": 131
+ },
+ "Kalyan": {
+  "lat": 19.251244,
+  "lon": 73.133492,
+  "median_price_lakh": 50.0,
+  "median_rate": 7251,
+  "n": 1268
+ },
+ "Kamothe": {
+  "lat": 19.015463,
+  "lon": 73.094849,
+  "median_price_lakh": 85.0,
+  "median_rate": 8594,
+  "n": 375
+ },
+ "Kandivali": {
+  "lat": 19.205957,
+  "lon": 72.858093,
+  "median_price_lakh": 163.3,
+  "median_rate": 20396,
+  "n": 1739
+ },
+ "Kanjurmarg": {
+  "lat": 19.131161,
+  "lon": 72.932259,
+  "median_price_lakh": 162.1,
+  "median_rate": 22273,
+  "n": 503
+ },
+ "Karanjade": {
+  "lat": 18.977718,
+  "lon": 73.103424,
+  "median_price_lakh": 45.0,
+  "median_rate": 6493,
+  "n": 84
+ },
+ "Karjat": {
+  "lat": 18.909834,
+  "lon": 73.341461,
+  "median_price_lakh": 65.0,
+  "median_rate": 4132,
+  "n": 217
+ },
+ "Kasaradavali Thane": {
+  "lat": 19.268215,
+  "lon": 72.969315,
+  "median_price_lakh": 61.0,
+  "median_rate": 8940,
+  "n": 76
+ },
+ "Kasheli": {
+  "lat": 19.234823,
+  "lon": 73.014938,
+  "median_price_lakh": 31.5,
+  "median_rate": 4106,
+  "n": 2
+ },
+ "Kewale": {
+  "lat": 18.989401,
+  "lon": 73.1175,
+  "median_price_lakh": 36.7,
+  "median_rate": 5295,
+  "n": 8
+ },
+ "Khadakpada": {
+  "lat": 19.25329,
+  "lon": 73.136635,
+  "median_price_lakh": 100.0,
+  "median_rate": 6915,
+  "n": 5
+ },
+ "Khalapur": {
+  "lat": 18.831699,
+  "lon": 73.285698,
+  "median_price_lakh": 30.0,
+  "median_rate": 5952,
+  "n": 3
+ },
+ "Khar": {
+  "lat": 19.070719,
+  "lon": 72.833534,
+  "median_price_lakh": 620.0,
+  "median_rate": 47935,
+  "n": 102
+ },
+ "Khardi": {
+  "lat": 19.583544,
+  "lon": 73.386681,
+  "median_price_lakh": 10.0,
+  "median_rate": 2936,
+  "n": 2
+ },
+ "Kharghar": {
+  "lat": 19.069971,
+  "lon": 73.073959,
+  "median_price_lakh": 120.0,
+  "median_rate": 10413,
+  "n": 1556
+ },
+ "Khopoli": {
+  "lat": 18.790865,
+  "lon": 73.277855,
+  "median_price_lakh": 39.0,
+  "median_rate": 4891,
+  "n": 40
+ },
+ "Kiravli Village": {
+  "lat": 19.097485,
+  "lon": 73.058632,
+  "median_price_lakh": 39.0,
+  "median_rate": 5714,
+  "n": 3
+ },
+ "Kolhare": {
+  "lat": 19.027023,
+  "lon": 73.334808,
+  "median_price_lakh": 26.6,
+  "median_rate": 4517,
+  "n": 13
+ },
+ "Kolshet": {
+  "lat": 19.240211,
+  "lon": 72.995834,
+  "median_price_lakh": 130.0,
+  "median_rate": 12462,
+  "n": 16
+ },
+ "Kolshet Road Thane": {
+  "lat": 19.232069,
+  "lon": 72.987343,
+  "median_price_lakh": 95.0,
+  "median_rate": 8854,
+  "n": 3
+ },
+ "Koper Khairane": {
+  "lat": 19.102783,
+  "lon": 73.00972,
+  "median_price_lakh": 135.0,
+  "median_rate": 13000,
+  "n": 421
+ },
+ "Koproli": {
+  "lat": 19.012089,
+  "lon": 73.158707,
+  "median_price_lakh": 36.5,
+  "median_rate": 5732,
+  "n": 2
+ },
+ "Kurla": {
+  "lat": 19.063993,
+  "lon": 72.883514,
+  "median_price_lakh": 116.6,
+  "median_rate": 20275,
+  "n": 424
+ },
+ "Lalbaug": {
+  "lat": 18.993108,
+  "lon": 72.837014,
+  "median_price_lakh": 543.0,
+  "median_rate": 50173,
+  "n": 2
+ },
+ "Lbs Marg Mulund": {
+  "lat": 19.174349,
+  "lon": 72.942848,
+  "median_price_lakh": 290.0,
+  "median_rate": 18146,
+  "n": 3
+ },
+ "Lodhivali": {
+  "lat": 19.204382,
+  "lon": 73.187233,
+  "median_price_lakh": 27.9,
+  "median_rate": 4007,
+  "n": 3
+ },
+ "Lokhandwala Complex": {
+  "lat": 19.14414,
+  "lon": 72.819717,
+  "median_price_lakh": 275.0,
+  "median_rate": 25000,
+  "n": 3
+ },
+ "Lower Parel": {
+  "lat": 19.001797,
+  "lon": 72.828133,
+  "median_price_lakh": 691.5,
+  "median_rate": 48890,
+  "n": 318
+ },
+ "Magathane": {
+  "lat": 19.218013,
+  "lon": 72.865889,
+  "median_price_lakh": 198.2,
+  "median_rate": 24716,
+  "n": 6
+ },
+ "Mahalaxmi": {
+  "lat": 18.984261,
+  "lon": 72.825714,
+  "median_price_lakh": 770.5,
+  "median_rate": 45290,
+  "n": 111
+ },
+ "Mahim": {
+  "lat": 19.036476,
+  "lon": 72.840881,
+  "median_price_lakh": 331.5,
+  "median_rate": 42780,
+  "n": 136
+ },
+ "Majiwada": {
+  "lat": 19.217279,
+  "lon": 72.990738,
+  "median_price_lakh": 300.0,
+  "median_rate": 17857,
+  "n": 9
+ },
+ "Makane Kapase": {
+  "lat": 19.573612,
+  "lon": 72.806213,
+  "median_price_lakh": 16.0,
+  "median_rate": 3509,
+  "n": 7
+ },
+ "Malabar Hill": {
+  "lat": 18.953711,
+  "lon": 72.80043,
+  "median_price_lakh": 1350.0,
+  "median_rate": 68182,
+  "n": 29
+ },
+ "Malad": {
+  "lat": 19.189018,
+  "lon": 72.83625,
+  "median_price_lakh": 165.8,
+  "median_rate": 20093,
+  "n": 1174
+ },
+ "Mankhurd": {
+  "lat": 19.055847,
+  "lon": 72.928162,
+  "median_price_lakh": 127.0,
+  "median_rate": 13916,
+  "n": 4
+ },
+ "Manpada": {
+  "lat": 19.235632,
+  "lon": 72.97525,
+  "median_price_lakh": 187.5,
+  "median_rate": 11920,
+  "n": 12
+ },
+ "Marine Lines": {
+  "lat": 18.945946,
+  "lon": 72.825829,
+  "median_price_lakh": 767.0,
+  "median_rate": 41987,
+  "n": 30
+ },
+ "Marol": {
+  "lat": 19.11809,
+  "lon": 72.885402,
+  "median_price_lakh": 253.0,
+  "median_rate": 32054,
+  "n": 5
+ },
+ "Matunga": {
+  "lat": 19.028767,
+  "lon": 72.853127,
+  "median_price_lakh": 425.0,
+  "median_rate": 45003,
+  "n": 211
+ },
+ "Mazagaon": {
+  "lat": 18.968748,
+  "lon": 72.837807,
+  "median_price_lakh": 240.0,
+  "median_rate": 24706,
+  "n": 27
+ },
+ "Mazgaon": {
+  "lat": 18.96778,
+  "lon": 72.834957,
+  "median_price_lakh": 375.0,
+  "median_rate": 29571,
+  "n": 16
+ },
+ "Mira Bhayander Road": {
+  "lat": 19.285629,
+  "lon": 72.869354,
+  "median_price_lakh": 56.0,
+  "median_rate": 9314,
+  "n": 2
+ },
+ "Mira Road": {
+  "lat": 19.283524,
+  "lon": 72.875298,
+  "median_price_lakh": 78.0,
+  "median_rate": 10144,
+  "n": 2512
+ },
+ "Mulund": {
+  "lat": 19.169069,
+  "lon": 72.945267,
+  "median_price_lakh": 194.1,
+  "median_rate": 22099,
+  "n": 1024
+ },
+ "Mumbai": {
+  "lat": 19.017616,
+  "lon": 72.856133,
+  "median_price_lakh": 10.0,
+  "median_rate": 2000,
+  "n": 1
+ },
+ "Mumbai Central": {
+  "lat": 18.972166,
+  "lon": 72.821228,
+  "median_price_lakh": 220.0,
+  "median_rate": 26061,
+  "n": 8
+ },
+ "Mumbra": {
+  "lat": 19.169693,
+  "lon": 73.022682,
+  "median_price_lakh": 28.0,
+  "median_rate": 4000,
+  "n": 17
+ },
+ "Murbad": {
+  "lat": 19.264343,
+  "lon": 73.392807,
+  "median_price_lakh": 54.0,
+  "median_rate": 2667,
+  "n": 3
+ },
+ "Nahur": {
+  "lat": 19.157774,
+  "lon": 72.950511,
+  "median_price_lakh": 198.5,
+  "median_rate": 18846,
+  "n": 48
+ },
+ "Naigaon": {
+  "lat": 19.36031,
+  "lon": 72.859848,
+  "median_price_lakh": 39.5,
+  "median_rate": 6044,
+  "n": 514
+ },
+ "Nala Sopara": {
+  "lat": 19.423119,
+  "lon": 72.813194,
+  "median_price_lakh": 33.5,
+  "median_rate": 5778,
+  "n": 261
+ },
+ "Nalasopara": {
+  "lat": 19.414375,
+  "lon": 72.809982,
+  "median_price_lakh": 32.8,
+  "median_rate": 5292,
+  "n": 68
+ },
+ "Nallasopara W": {
+  "lat": 19.417505,
+  "lon": 72.81794,
+  "median_price_lakh": 30.0,
+  "median_rate": 5085,
+  "n": 1
+ },
+ "Napeansea Road": {
+  "lat": 18.947511,
+  "lon": 72.797543,
+  "median_price_lakh": 190.0,
+  "median_rate": 29551,
+  "n": 3
+ },
+ "Navghar": {
+  "lat": 19.304632,
+  "lon": 72.867241,
+  "median_price_lakh": 99.5,
+  "median_rate": 9945,
+  "n": 12
+ },
+ "Neral": {
+  "lat": 19.0233,
+  "lon": 73.325066,
+  "median_price_lakh": 24.0,
+  "median_rate": 3583,
+  "n": 303
+ },
+ "Nere": {
+  "lat": 19.011822,
+  "lon": 73.172836,
+  "median_price_lakh": 17.4,
+  "median_rate": 4150,
+  "n": 14
+ },
+ "Nerul": {
+  "lat": 19.032668,
+  "lon": 73.0196,
+  "median_price_lakh": 220.0,
+  "median_rate": 17500,
+  "n": 241
+ },
+ "Nilje Gaon": {
+  "lat": 19.157648,
+  "lon": 73.07732,
+  "median_price_lakh": 48.0,
+  "median_rate": 10526,
+  "n": 7
+ },
+ "Old Panvel": {
+  "lat": 18.990473,
+  "lon": 73.104179,
+  "median_price_lakh": 48.1,
+  "median_rate": 6798,
+  "n": 2
+ },
+ "Oshiwara": {
+  "lat": 19.149211,
+  "lon": 72.839973,
+  "median_price_lakh": 283.5,
+  "median_rate": 31500,
+  "n": 3
+ },
+ "Other": {
+  "lat": 19.131245,
+  "lon": 72.940581,
+  "median_price_lakh": 100.0,
+  "median_rate": 14238,
+  "n": 224
+ },
+ "Palghar": {
+  "lat": 19.695908,
+  "lon": 72.767204,
+  "median_price_lakh": 23.0,
+  "median_rate": 5092,
+  "n": 98
+ },
+ "Pali Hill": {
+  "lat": 19.067248,
+  "lon": 72.828448,
+  "median_price_lakh": 1483.6,
+  "median_rate": 115005,
+  "n": 3
+ },
+ "Panch Pakhdi": {
+  "lat": 19.195499,
+  "lon": 72.965202,
+  "median_price_lakh": 265.0,
+  "median_rate": 20214,
+  "n": 7
+ },
+ "Panvel": {
+  "lat": 18.968405,
+  "lon": 73.130478,
+  "median_price_lakh": 80.0,
+  "median_rate": 9659,
+  "n": 1076
+ },
+ "Parel": {
+  "lat": 18.998795,
+  "lon": 72.842667,
+  "median_price_lakh": 380.0,
+  "median_rate": 36697,
+  "n": 209
+ },
+ "Patil Nagar Vasind": {
+  "lat": 19.404881,
+  "lon": 73.268341,
+  "median_price_lakh": 21.0,
+  "median_rate": 4032,
+  "n": 4
+ },
+ "Peddar Road": {
+  "lat": 18.975658,
+  "lon": 72.807343,
+  "median_price_lakh": 900.0,
+  "median_rate": 36000,
+  "n": 1
+ },
+ "Pisavli Village": {
+  "lat": 19.213554,
+  "lon": 73.123505,
+  "median_price_lakh": 22.0,
+  "median_rate": 3636,
+  "n": 5
+ },
+ "Pokhran 2": {
+  "lat": 19.224461,
+  "lon": 72.960083,
+  "median_price_lakh": 175.0,
+  "median_rate": 12648,
+  "n": 4
+ },
+ "Powai": {
+  "lat": 19.11812,
+  "lon": 72.901711,
+  "median_price_lakh": 270.0,
+  "median_rate": 26531,
+  "n": 716
+ },
+ "Prabhadevi": {
+  "lat": 19.01498,
+  "lon": 72.82988,
+  "median_price_lakh": 660.0,
+  "median_rate": 48000,
+  "n": 171
+ },
+ "Rabale": {
+  "lat": 19.143578,
+  "lon": 73.00985,
+  "median_price_lakh": 36.0,
+  "median_rate": 5565,
+  "n": 13
+ },
+ "Rabale Station Road": {
+  "lat": 19.14225,
+  "lon": 73.00177,
+  "median_price_lakh": 22.0,
+  "median_rate": 3810,
+  "n": 3
+ },
+ "Ram Mandir Road": {
+  "lat": 19.151901,
+  "lon": 72.845596,
+  "median_price_lakh": 92.0,
+  "median_rate": 14839,
+  "n": 3
+ },
+ "Rasayani": {
+  "lat": 18.894634,
+  "lon": 73.182549,
+  "median_price_lakh": 27.6,
+  "median_rate": 4400,
+  "n": 11
+ },
+ "Sagaon": {
+  "lat": 19.195623,
+  "lon": 73.095863,
+  "median_price_lakh": 20.0,
+  "median_rate": 4566,
+  "n": 5
+ },
+ "Sai Samarth Mitra": {
+  "lat": 19.204468,
+  "lon": 72.999702,
+  "median_price_lakh": 65.0,
+  "median_rate": 10000,
+  "n": 3
+ },
+ "Saki Naka": {
+  "lat": 19.097029,
+  "lon": 72.884804,
+  "median_price_lakh": 150.5,
+  "median_rate": 19433,
+  "n": 10
+ },
+ "Sanpada": {
+  "lat": 19.060036,
+  "lon": 73.008595,
+  "median_price_lakh": 195.0,
+  "median_rate": 18814,
+  "n": 150
+ },
+ "Santacruz": {
+  "lat": 19.079248,
+  "lon": 72.851536,
+  "median_price_lakh": 282.0,
+  "median_rate": 28107,
+  "n": 420
+ },
+ "Santosh Nagar": {
+  "lat": 19.223032,
+  "lon": 73.134361,
+  "median_price_lakh": 23.0,
+  "median_rate": 4776,
+  "n": 4
+ },
+ "Saphale": {
+  "lat": 19.572414,
+  "lon": 72.830956,
+  "median_price_lakh": 19.1,
+  "median_rate": 3737,
+  "n": 17
+ },
+ "Seawoods": {
+  "lat": 19.015105,
+  "lon": 73.01683,
+  "median_price_lakh": 255.0,
+  "median_rate": 18595,
+  "n": 279
+ },
+ "Sector 17 Ulwe": {
+  "lat": 18.962914,
+  "lon": 73.022079,
+  "median_price_lakh": 65.0,
+  "median_rate": 5752,
+  "n": 1
+ },
+ "Sector 19 Kharghar": {
+  "lat": 19.049068,
+  "lon": 73.077759,
+  "median_price_lakh": 225.0,
+  "median_rate": 12500,
+  "n": 3
+ },
+ "Sector 21 Ghansoli": {
+  "lat": 19.130163,
+  "lon": 72.999382,
+  "median_price_lakh": 69.0,
+  "median_rate": 10965,
+  "n": 3
+ },
+ "Sector 21 Kamothe": {
+  "lat": 19.013071,
+  "lon": 73.096382,
+  "median_price_lakh": 120.0,
+  "median_rate": 9527,
+  "n": 7
+ },
+ "Sector 5 Ghansoli": {
+  "lat": 19.119129,
+  "lon": 73.000153,
+  "median_price_lakh": 78.0,
+  "median_rate": 10625,
+  "n": 3
+ },
+ "Sector-9 Ulwe": {
+  "lat": 18.971873,
+  "lon": 73.016651,
+  "median_price_lakh": 108.0,
+  "median_rate": 9391,
+  "n": 4
+ },
+ "Sewri": {
+  "lat": 18.99292,
+  "lon": 72.852936,
+  "median_price_lakh": 340.5,
+  "median_rate": 35000,
+  "n": 56
+ },
+ "Shahapur": {
+  "lat": 19.454365,
+  "lon": 73.326767,
+  "median_price_lakh": 30.2,
+  "median_rate": 2963,
+  "n": 14
+ },
+ "Shelu": {
+  "lat": 19.063663,
+  "lon": 73.3162,
+  "median_price_lakh": 19.0,
+  "median_rate": 2881,
+  "n": 7
+ },
+ "Shil Phata": {
+  "lat": 19.152416,
+  "lon": 73.049591,
+  "median_price_lakh": 45.0,
+  "median_rate": 7770,
+  "n": 110
+ },
+ "Shilphata": {
+  "lat": 19.147709,
+  "lon": 73.039452,
+  "median_price_lakh": 59.0,
+  "median_rate": 8429,
+  "n": 19
+ },
+ "Shivaji Park": {
+  "lat": 19.029243,
+  "lon": 72.839317,
+  "median_price_lakh": 465.0,
+  "median_rate": 43095,
+  "n": 3
+ },
+ "Shivkar": {
+  "lat": 18.983524,
+  "lon": 73.150116,
+  "median_price_lakh": 34.0,
+  "median_rate": 5278,
+  "n": 3
+ },
+ "Sion": {
+  "lat": 19.039514,
+  "lon": 72.869019,
+  "median_price_lakh": 245.0,
+  "median_rate": 29917,
+  "n": 384
+ },
+ "Taloja": {
+  "lat": 19.075055,
+  "lon": 73.101562,
+  "median_price_lakh": 45.0,
+  "median_rate": 6052,
+  "n": 512
+ },
+ "Taloje": {
+  "lat": 19.074299,
+  "lon": 73.112026,
+  "median_price_lakh": 42.0,
+  "median_rate": 5597,
+  "n": 60
+ },
+ "Tardeo": {
+  "lat": 18.967428,
+  "lon": 72.810905,
+  "median_price_lakh": 899.0,
+  "median_rate": 56250,
+  "n": 69
+ },
+ "Thakurli": {
+  "lat": 19.225672,
+  "lon": 73.100281,
+  "median_price_lakh": 52.0,
+  "median_rate": 7214,
+  "n": 55
+ },
+ "Thane": {
+  "lat": 19.230757,
+  "lon": 72.974419,
+  "median_price_lakh": 125.0,
+  "median_rate": 14884,
+  "n": 3920
+ },
+ "Tilak Nagar": {
+  "lat": 19.066891,
+  "lon": 72.892639,
+  "median_price_lakh": 105.0,
+  "median_rate": 20896,
+  "n": 5
+ },
+ "Titwala": {
+  "lat": 19.296946,
+  "lon": 73.208595,
+  "median_price_lakh": 31.0,
+  "median_rate": 4500,
+  "n": 113
+ },
+ "Ulhasnagar": {
+  "lat": 19.246983,
+  "lon": 73.170753,
+  "median_price_lakh": 72.5,
+  "median_rate": 7344,
+  "n": 42
+ },
+ "Ulhasnagar 4": {
+  "lat": 19.217018,
+  "lon": 73.165382,
+  "median_price_lakh": 22.0,
+  "median_rate": 3385,
+  "n": 3
+ },
+ "Ulwe": {
+  "lat": 18.972889,
+  "lon": 73.025032,
+  "median_price_lakh": 75.0,
+  "median_rate": 8100,
+  "n": 904
+ },
+ "Umroli": {
+  "lat": 19.756004,
+  "lon": 72.759598,
+  "median_price_lakh": 16.0,
+  "median_rate": 2667,
+  "n": 1
+ },
+ "Uttan": {
+  "lat": 19.290703,
+  "lon": 72.793369,
+  "median_price_lakh": 175.0,
+  "median_rate": 4814,
+  "n": 2
+ },
+ "Vangani": {
+  "lat": 19.094021,
+  "lon": 73.297302,
+  "median_price_lakh": 27.0,
+  "median_rate": 3818,
+  "n": 10
+ },
+ "Vasai": {
+  "lat": 19.392601,
+  "lon": 72.840851,
+  "median_price_lakh": 50.0,
+  "median_rate": 7059,
+  "n": 619
+ },
+ "Vasant Vihar Thane": {
+  "lat": 19.224514,
+  "lon": 72.968201,
+  "median_price_lakh": 212.5,
+  "median_rate": 10943,
+  "n": 12
+ },
+ "Vashi": {
+  "lat": 19.080405,
+  "lon": 73.000137,
+  "median_price_lakh": 225.0,
+  "median_rate": 18000,
+  "n": 203
+ },
+ "Vasind": {
+  "lat": 19.405741,
+  "lon": 73.267033,
+  "median_price_lakh": 13.3,
+  "median_rate": 2793,
+  "n": 2
+ },
+ "Versova": {
+  "lat": 19.135086,
+  "lon": 72.814613,
+  "median_price_lakh": 172.0,
+  "median_rate": 32245,
+  "n": 9
+ },
+ "Vevoor": {
+  "lat": 19.67334,
+  "lon": 72.763069,
+  "median_price_lakh": 21.0,
+  "median_rate": 3499,
+  "n": 18
+ },
+ "Vichumbe": {
+  "lat": 18.986309,
+  "lon": 73.133999,
+  "median_price_lakh": 46.2,
+  "median_rate": 5934,
+  "n": 6
+ },
+ "Vikhroli": {
+  "lat": 19.111164,
+  "lon": 72.931068,
+  "median_price_lakh": 110.6,
+  "median_rate": 20000,
+  "n": 790
+ },
+ "Vikroli": {
+  "lat": 19.110485,
+  "lon": 72.939735,
+  "median_price_lakh": 95.0,
+  "median_rate": 18182,
+  "n": 61
+ },
+ "Vile Parle": {
+  "lat": 19.108355,
+  "lon": 72.836632,
+  "median_price_lakh": 747.0,
+  "median_rate": 45644,
+  "n": 104
+ },
+ "Vile Parle E": {
+  "lat": 19.096378,
+  "lon": 72.8564,
+  "median_price_lakh": 415.2,
+  "median_rate": 38889,
+  "n": 15
+ },
+ "Ville Parle": {
+  "lat": 19.097841,
+  "lon": 72.85054,
+  "median_price_lakh": 293.0,
+  "median_rate": 34286,
+  "n": 277
+ },
+ "Virar": {
+  "lat": 19.465771,
+  "lon": 72.800331,
+  "median_price_lakh": 40.0,
+  "median_rate": 6232,
+  "n": 583
+ },
+ "Wadala": {
+  "lat": 19.027515,
+  "lon": 72.875923,
+  "median_price_lakh": 299.0,
+  "median_rate": 30230,
+  "n": 448
+ },
+ "Worli": {
+  "lat": 19.002015,
+  "lon": 72.821465,
+  "median_price_lakh": 840.0,
+  "median_rate": 46875,
+  "n": 173
+ },
+ "Worli Sea Fase": {
+  "lat": 19.009144,
+  "lon": 72.815727,
+  "median_price_lakh": 686.5,
+  "median_rate": 49188,
+  "n": 4
+ }
+}

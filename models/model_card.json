@@ -84,7 +84,7 @@
     "numpy": "2.4.6",
     "pandas": "3.0.5"
   },
-  "saved_at_utc": "2026-09-12T08:06:53+00:00",
+  "saved_at_utc": "2026-09-12T08:21:59+00:00",
   "file_mb": 1.65,
   "limitations": [
     "Trained on asking prices, not confirmed transaction prices.",
